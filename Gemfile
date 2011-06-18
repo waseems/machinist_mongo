@@ -6,5 +6,5 @@ gem 'mongo_mapper', :git => 'git://github.com/jnunemaker/mongomapper.git'
 gem 'mongoid', :git => 'git://github.com/mongoid/mongoid.git'
 gem 'machinist'
 gem 'rspec', "2.4"
-gem 'rake'
+gem 'rake','0.8.7'
 gem 'sham_rack'
